@@ -1,0 +1,6 @@
+{
+"name": "Codespace with deps to run ntbks in this repo",
+"build": {
+    "dockerfile": "Dockerfile"
+} 
+}
